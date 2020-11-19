@@ -4,7 +4,7 @@ public class MaoPaoPaiXv {
 
     public static void main(String[] args) throws Exception {
         //初始化数组
-        int[] arr = {6,5,4,3,2,1};
+        int[] arr = {6,5,4,3,2,55};
 
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr.length - 1; j++) {
